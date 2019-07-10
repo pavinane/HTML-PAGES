@@ -7,7 +7,7 @@
     /* background-color: red; */
 }
 .navigation{
-    width:1405px;
+    width:1398px;
     height:50px;
     /* background-color: green; */
     margin:0 20px;
@@ -30,18 +30,18 @@
 }
 .slider{
     height:500px;
-    /* background-color: green; */
     float: left;
 }
 .slide{
-    width:1000px;
-    height:500px;
+    width:900x;
+    height:305px;
     /* background: blue; */
     margin: 30px 110px;
     color:#fff;
     background-image :url(./fsf1.jpg);
     background-repeat: no-repeat;
     opacity: 0.6;
+    background-color: yellow;
 }
 .slide>h2{
     color: black;
@@ -54,9 +54,22 @@
 }
 .slide1>img{
     float:right;
-    margin:-46px -210px;
-    background-color: rgb(228, 13, 13);
+    margin:-46px -200px;
 }
-.card-section{
+.Card-section{
     height:300px;
+    vertical-align: middle;
+    border-style: none;
+    margin-top: 20px;
+}
+.cards{
+    width: 1000px;
+    float:left;
+   margin: 0 110px; 
+}
+.left-card{
+    width:100px;
+    float: left;
+    margin:40px 0;
+    text-align: center;
 }
