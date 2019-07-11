@@ -29,47 +29,86 @@
     margin-top:30px;
 }
 .slider{
-    height:500px;
+    height:100px;
     float: left;
+    /* background-color: yellow; */
 }
 .slide{
-    width:900x;
-    height:305px;
+    width:1080px;
+    height:300px;
     /* background: blue; */
-    margin: 30px 110px;
+    margin: -30px 140px;
     color:#fff;
-    background-image :url(./fsf1.jpg);
+    background-image :url(./ba.jpg);
     background-repeat: no-repeat;
     opacity: 0.6;
-    background-color: yellow;
-}
-.slide>h2{
-    color: black;
-    text-align: center;
+    /* background-color: yellow; */
+   
 }
 .slide>img{
     float:left;
-    margin:-20px -220px;
+    margin:0 -120px;
     opacity: 0.9;
 }
 .slide1>img{
     float:right;
-    margin:-46px -200px;
+    margin:0 -200px;
 }
 .Card-section{
-    height:300px;
-    vertical-align: middle;
-    border-style: none;
-    margin-top: 20px;
+    width:1420px;
+    height:800px;
+    margin-top: 40px;
+    background-color:gainsboro;
+    
 }
 .cards{
-    width: 1000px;
+    width:900px;
+    height:700px;
     float:left;
-   margin: 0 110px; 
+   margin: 30px 120px; 
+   /* background-color:white; */
+}
+.cards>ul>li{
+    float: left;
+    margin:-25px 100px;
+    list-style-type:square;
+   
 }
 .left-card{
-    width:100px;
-    float: left;
-    margin:40px 0;
-    text-align: center;
+    margin:30px 0px;
+    width:210px;
+    height:350px;
+    background-color: white;
+    padding: 20px 13px;
+}
+.left-card>h9{
+    margin-top:7px;
+}
+.left-card1{
+    margin:-358px 208px;
+    width:210px;
+    height:350px;
+    background-color: white;
+    padding:20px 13px;
+}
+.center-card{
+    margin:-380px 442px;
+    width:210px;
+    height:350px;
+    background-color: white;
+    padding:20px 13px;
+}
+.right-card{
+    margin: 30px 665px;
+    width:210px;
+    height:350px;
+    background-color: white;
+    padding:20px 13px;
+}
+.right-card1{
+    margin: -380px 886px;
+    width:210px;
+    height:350px;
+    background-color: white;
+    padding:20px 13px;
 }
