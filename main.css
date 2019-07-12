@@ -190,7 +190,8 @@
     color: white;
 }
 .left-card4{
-    margin:100px 100px;
+    margin-left: 100px;
+    margin-top: 90px;
 }
 .left-card4>small{
     margin:130px -80px 100px 125px;
@@ -199,7 +200,7 @@
     font-size: 11px;
 }
 .left-card5{
-    margin:-280px 325px;
+    margin:-180px 325px;
     width:125px;
     height:230px;
     background-color: white;
@@ -212,12 +213,12 @@
     font-size: 11px;
 }
 .left-card5>small>p{
-    margin: -120px 20px;
+    margin: -130px 20px;
     color:gray;
     padding: 40px 20px;
 }
 .left-card6{
-    margin:-225px 80px; 
+    margin:-225px 85px; 
     float: left;
 }
 .left-card6>small{
@@ -227,8 +228,8 @@
     font-size: 11px;
 }
 .left-card7{
-    margin-left: 575px;
-    margin-top: 105px;
+    margin-left: 595px;
+    margin-top: 5px;
 }
 .left-card7>small{
     margin:-95px -120px 80px 10px;
@@ -237,7 +238,7 @@
     font-size: 11px;
 }
 .left-card8{
-    margin-left: 685px;
+    margin-left: 702px;
     margin-top: -125px;
 }
 .left-card8>small{
@@ -247,7 +248,7 @@
     font-size: 11px;
 }
 .right-card4{
-    margin-left: 795px;
+    margin-left: 809px;
     margin-top: -125px;
 }
 .right-card4>small{
@@ -257,12 +258,18 @@
     font-size: 11px;
 }
 .right-card5{
-    margin-left: 905px;
+    margin-left: 915px;
     margin-top: -125px;
 }
 .right-card5>small{
-    margin:-95px -120px 0 9px;
+    margin:-95px -120px 0 10px;
     color:white;
     float: left;
     font-size: 11px;
+}
+.center-card3{
+    margin-left: 615px;
+    margin-top: 80px;
+    color: white;
+    font-size:14px;
 }
