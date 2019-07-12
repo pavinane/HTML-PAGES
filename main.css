@@ -190,26 +190,26 @@
     color: white;
 }
 .left-card4{
-    margin:100px 80px;
+    margin:100px 100px;
 }
 .left-card4>small{
     margin:130px -80px 100px 125px;
     color: white;
     float: left;
-    font-size: 10px;
+    font-size: 11px;
 }
 .left-card5{
-    margin:-280px 300px;
-    width:120px;
+    margin:-280px 325px;
+    width:125px;
     height:230px;
     background-color: white;
-    padding:30px 13px;
+    padding:30px 15px;
 }
 .left-card5>small{
-    margin:5px -40px 80px -5px;
+    margin:5px -42px 80px -11px;
     color:black;
     float: left;
-    font-size: 10px;
+    font-size: 11px;
 }
 .left-card5>small>p{
     margin: -120px 20px;
@@ -217,22 +217,52 @@
     padding: 40px 20px;
 }
 .left-card6{
-    margin:-225px 75px; 
+    margin:-225px 80px; 
     float: left;
 }
 .left-card6>small{
-    margin:5px -120px 80px 5px;
+    margin:5px -120px 80px -3px;
     color:white;
     float: left;
-    font-size: 10px;
+    font-size: 11px;
 }
 .left-card7{
-    margin-left: 550px;
+    margin-left: 575px;
     margin-top: 105px;
 }
 .left-card7>small{
     margin:-95px -120px 80px 10px;
     color:white;
     float: left;
-    font-size: 10px;
+    font-size: 11px;
+}
+.left-card8{
+    margin-left: 685px;
+    margin-top: -125px;
+}
+.left-card8>small{
+    margin:-95px -120px 0 3px;
+    color:white;
+    float: left;
+    font-size: 11px;
+}
+.right-card4{
+    margin-left: 795px;
+    margin-top: -125px;
+}
+.right-card4>small{
+    margin:-95px -120px 0 3px;
+    color:white;
+    float: left;
+    font-size: 11px;
+}
+.right-card5{
+    margin-left: 905px;
+    margin-top: -125px;
+}
+.right-card5>small{
+    margin:-95px -120px 0 9px;
+    color:white;
+    float: left;
+    font-size: 11px;
 }
