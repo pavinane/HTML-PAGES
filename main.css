@@ -7,7 +7,7 @@
     /* background-color: red; */
 }
 .navigation{
-    width:1389px;
+    width:1450px;
     height:50px;
     /* background-color: green; */
     margin:0 20px;
@@ -179,15 +179,60 @@
 .center-card2>small>p{
     color: gray;
 }
+.Card-section1{
+    width:1410px;
+    height:400px;
+    margin: -40px 10px;
+    background-color:black;
+}
 .cards1{
-    width: 1420px;
-    height: 300px;
-    background-color: black;
-    margin:422px -100px;
+    padding: 20px 600px;
+    color: white;
 }
 .left-card4{
-    padding: 60px 200px;
+    margin:100px 80px;
 }
 .left-card4>small{
-    margin-bottom: 50px;
+    margin:130px -80px 100px 125px;
+    color: white;
+    float: left;
+    font-size: 10px;
+}
+.left-card5{
+    margin:-280px 300px;
+    width:120px;
+    height:230px;
+    background-color: white;
+    padding:30px 13px;
+}
+.left-card5>small{
+    margin:5px -40px 80px -5px;
+    color:black;
+    float: left;
+    font-size: 10px;
+}
+.left-card5>small>p{
+    margin: -120px 20px;
+    color:gray;
+    padding: 40px 20px;
+}
+.left-card6{
+    margin:-225px 75px; 
+    float: left;
+}
+.left-card6>small{
+    margin:5px -120px 80px 5px;
+    color:white;
+    float: left;
+    font-size: 10px;
+}
+.left-card7{
+    margin-left: 550px;
+    margin-top: 105px;
+}
+.left-card7>small{
+    margin:-95px -120px 80px 10px;
+    color:white;
+    float: left;
+    font-size: 10px;
 }
