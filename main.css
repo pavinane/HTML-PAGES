@@ -292,11 +292,11 @@
 }
 .left-card10{
     margin-top: -400;
-    margin-left: 300;
+    margin-left: 380;
 }
 .center-card4{
     margin-top: -185;
-    margin-left: 450;
+    margin-left: 500;
 }
 .center-card5{
     margin-top: -185;
@@ -322,7 +322,7 @@
     color: black;
 }
 .footer{
-    height:200px;
+    height:110px;
     margin:635px -15px;
     width: 1405;
     background: brown;
