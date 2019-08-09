@@ -7,7 +7,7 @@
     /* background-color: red; */
 }
 .navigation{
-    width:1200px;
+    width:1390px;
     height:50px;
     /* background-color: green; */
     margin:0 5px;
@@ -284,7 +284,7 @@
     padding: 90px 540px;
 }
 .left-card9{
-    margin: -140px 200px;
+    margin: -140px 100px;
     background-color: white;
     padding: 100px 50px;
     width: 1000px;
@@ -312,12 +312,12 @@
 }
 .cards3{
     margin-top: 50px;
-    margin-left: -160px;
+    margin-left: -260px;
     text-align: center;
     color: gray;
 }
 .cards3>p{
-    margin: 40px 360px;
+    margin: 40px 420px;
     font-size: 14px;
     color: black;
 }
@@ -329,7 +329,7 @@
 }
 .footer>ul{
     list-style-type: none;
-    margin-left: 520px;
+    margin-left: 450px;
     color: #fff;
 }
 .footer>ul>li{
@@ -342,7 +342,7 @@
     border-radius: 50%;
 }
 .footer>p{
- margin: 30 110px;
+ margin: 30 80px;
  color: gray;
  text-align: left;
  clear: both;
